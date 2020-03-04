@@ -3,7 +3,7 @@
 
 # 选题：软件变更与影响分析
 
-##**参考文献**
+## **参考文献**
 
 [1] P. Bian, B. Liang, Y. Zhang, C. Yang, W. Shi and Y. Cai, Corrections to “Detecting Bugs by Discovering Expectations and Their Violations," TSE 2020, vol. 46, no. 1, pp. 113-113.
 
